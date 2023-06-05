@@ -1,2 +1,1 @@
-CUHKSZ-STA2004-2023 Spring 
-Mathematical Statistics
+CUHKSZ-STA2004-2023Spring-Mathematical Statistics
